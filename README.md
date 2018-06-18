@@ -1,7 +1,7 @@
-#PageReloader
+# PageReloader
 PageReloader is script, which reloads your webpage when your internet connection was lost somewhere in the middle. After internet connection is back, it reloads your page.
 
-#Installation instructions
+# Installation instructions
 1. Download repositroy or ZIP file [__here__](https://github.com/SloCompTech/PageReloader/releases).
 2. Put it where you want.
 3. Edit variables in `Reloader.html`.
