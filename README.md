@@ -1,3 +1,5 @@
+<p align="center"><img src="img/1024px.png" alt="PageReloader" height="200px"></p>
+
 # PageReloader
 PageReloader is script, which reloads your webpage when your internet connection was lost somewhere in the middle. After internet connection is back, it reloads your page.
 
